@@ -1,0 +1,1001 @@
+customer_id,tenure_months,monthly_charges,contract_type,internet_service,support_calls,senior_citizen,churn_label,churn_probability,risk_segment
+1001,52,105.57,One Year,DSL,9,0,No,0.01,Low Risk
+1002,15,103.02,One Year,DSL,2,0,No,0.03,Low Risk
+1003,61,59.72,One Year,Fiber Optic,7,0,No,0.04,Low Risk
+1004,21,86.81,Month-to-Month,DSL,7,1,No,0.1,Low Risk
+1005,24,40.5,Month-to-Month,Fiber Optic,0,0,Yes,0.09,Low Risk
+1006,3,49.31,One Year,No,9,0,No,0.41,Medium Risk
+1007,22,109.63,Month-to-Month,Fiber Optic,1,0,No,0.16,Low Risk
+1008,53,21.3,Two Year,DSL,7,0,No,0.06,Low Risk
+1009,2,28.55,Month-to-Month,DSL,0,0,Yes,0.84,High Risk
+1010,30,40.79,Month-to-Month,Fiber Optic,7,0,No,0.14,Low Risk
+1011,38,22.65,Month-to-Month,DSL,7,0,No,0.16,Low Risk
+1012,2,38.14,Month-to-Month,DSL,1,0,Yes,0.79,High Risk
+1013,64,78.3,One Year,Fiber Optic,3,0,No,0.0,
+1014,60,62.14,One Year,Fiber Optic,5,0,No,0.02,Low Risk
+1015,21,109.27,One Year,Fiber Optic,8,0,No,0.02,Low Risk
+1016,33,101.74,Two Year,DSL,7,1,No,0.05,Low Risk
+1017,58,54.18,Two Year,No,7,0,No,0.04,Low Risk
+1018,22,45.94,Two Year,DSL,6,0,No,0.03,Low Risk
+1019,49,57.97,Month-to-Month,DSL,8,0,Yes,0.78,High Risk
+1020,59,79.03,One Year,Fiber Optic,1,0,No,0.02,Low Risk
+1021,42,46.81,Month-to-Month,Fiber Optic,2,0,No,0.02,Low Risk
+1022,60,82.41,Month-to-Month,No,9,0,No,0.05,Low Risk
+1023,15,60.94,One Year,Fiber Optic,7,0,No,0.09,Low Risk
+1024,62,75.2,Month-to-Month,No,5,0,No,0.08,Low Risk
+1025,62,63.61,Month-to-Month,No,9,0,No,0.15,Low Risk
+1026,47,49.45,Month-to-Month,Fiber Optic,8,0,Yes,0.41,Medium Risk
+1027,62,114.85,Month-to-Month,Fiber Optic,9,0,No,0.25,Low Risk
+1028,51,96.36,Two Year,Fiber Optic,3,0,No,0.01,Low Risk
+1029,55,34.01,Month-to-Month,No,7,1,Yes,0.8,High Risk
+1030,64,106.85,Month-to-Month,Fiber Optic,9,0,No,0.1,Low Risk
+1031,3,68.74,Month-to-Month,DSL,2,0,No,0.07,Low Risk
+1032,51,109.46,Month-to-Month,Fiber Optic,2,0,Yes,0.84,High Risk
+1033,7,99.99,Two Year,DSL,7,1,Yes,0.13,Low Risk
+1034,21,62.52,Month-to-Month,Fiber Optic,4,0,Yes,0.77,High Risk
+1035,39,22.25,Month-to-Month,DSL,2,0,No,0.1,Low Risk
+1036,18,46.87,One Year,Fiber Optic,9,0,No,0.06,Low Risk
+1037,4,74.16,Two Year,No,0,1,No,0.2,Low Risk
+1038,60,83.35,One Year,DSL,2,1,No,0.01,Low Risk
+1039,14,45.79,Two Year,DSL,8,0,No,0.03,Low Risk
+1040,9,33.94,Month-to-Month,DSL,4,0,Yes,0.78,High Risk
+1041,53,103.49,Month-to-Month,Fiber Optic,9,0,Yes,0.84,High Risk
+1042,2,118.44,Month-to-Month,DSL,1,0,Yes,0.4,Medium Risk
+1043,60,72.57,Two Year,DSL,6,0,No,0.0,
+1044,71,37.17,Month-to-Month,DSL,1,0,Yes,0.79,High Risk
+1045,44,47.23,Month-to-Month,Fiber Optic,3,0,No,0.04,Low Risk
+1046,8,21.84,Month-to-Month,DSL,6,0,Yes,0.75,High Risk
+1047,47,111.43,Month-to-Month,Fiber Optic,3,0,No,0.16,Low Risk
+1048,35,31.78,Month-to-Month,DSL,6,0,No,0.12,Low Risk
+1049,36,77.65,Two Year,Fiber Optic,6,0,No,0.03,Low Risk
+1050,50,47.41,Month-to-Month,DSL,0,1,No,0.3,Low Risk
+1051,4,75.42,One Year,Fiber Optic,5,0,Yes,0.76,High Risk
+1052,2,85.14,One Year,DSL,8,0,No,0.09,Low Risk
+1053,6,102.97,Month-to-Month,Fiber Optic,1,0,No,0.17,Low Risk
+1054,54,40.64,Month-to-Month,No,2,0,No,0.02,Low Risk
+1055,4,21.1,Month-to-Month,No,9,0,Yes,0.78,High Risk
+1056,54,33.69,Month-to-Month,Fiber Optic,4,0,No,0.18,Low Risk
+1057,63,110.0,One Year,Fiber Optic,8,0,No,0.04,Low Risk
+1058,18,107.39,Month-to-Month,No,3,0,No,0.09,Low Risk
+1059,44,79.74,Month-to-Month,Fiber Optic,0,0,No,0.05,Low Risk
+1060,34,80.05,Month-to-Month,DSL,3,1,Yes,0.71,High Risk
+1061,62,86.5,Two Year,No,5,0,No,0.01,Low Risk
+1062,14,37.54,Two Year,Fiber Optic,4,1,No,0.0,
+1063,48,111.44,Two Year,DSL,0,1,No,0.0,
+1064,15,61.88,One Year,DSL,3,0,No,0.05,Low Risk
+1065,62,58.31,Month-to-Month,DSL,5,0,No,0.08,Low Risk
+1066,40,71.89,One Year,Fiber Optic,9,0,No,0.02,Low Risk
+1067,53,24.7,Month-to-Month,DSL,9,0,Yes,0.91,High Risk
+1068,24,36.63,One Year,DSL,3,0,No,0.01,Low Risk
+1069,26,93.8,One Year,DSL,8,1,Yes,0.57,Medium Risk
+1070,60,28.28,Month-to-Month,Fiber Optic,4,0,No,0.1,Low Risk
+1071,41,80.32,One Year,Fiber Optic,7,0,No,0.03,Low Risk
+1072,29,44.53,Two Year,DSL,8,0,No,0.1,Low Risk
+1073,15,58.93,Month-to-Month,DSL,9,0,No,0.11,Low Risk
+1074,45,48.87,Two Year,DSL,4,0,No,0.02,Low Risk
+1075,65,55.57,Month-to-Month,No,5,0,No,0.05,Low Risk
+1076,71,91.9,One Year,Fiber Optic,0,0,No,0.01,Low Risk
+1077,9,49.71,Month-to-Month,Fiber Optic,6,0,No,0.13,Low Risk
+1078,1,76.64,Month-to-Month,DSL,3,0,No,0.47,Medium Risk
+1079,8,67.61,Two Year,Fiber Optic,1,0,No,0.1,Low Risk
+1080,63,86.37,Two Year,Fiber Optic,4,0,No,0.01,Low Risk
+1081,11,113.68,One Year,DSL,2,0,No,0.07,Low Risk
+1082,8,93.26,Month-to-Month,DSL,5,0,No,0.42,Medium Risk
+1083,35,41.49,Two Year,DSL,7,0,No,0.01,Low Risk
+1084,35,23.12,Month-to-Month,No,6,0,No,0.18,Low Risk
+1085,33,46.23,Two Year,No,2,0,No,0.01,Low Risk
+1086,5,79.51,Month-to-Month,Fiber Optic,7,0,No,0.17,Low Risk
+1087,41,25.14,Month-to-Month,Fiber Optic,1,0,No,0.07,Low Risk
+1088,28,69.64,One Year,DSL,9,0,No,0.09,Low Risk
+1089,7,79.68,Month-to-Month,Fiber Optic,8,0,Yes,0.83,High Risk
+1090,12,53.42,Month-to-Month,Fiber Optic,3,0,No,0.07,Low Risk
+1091,34,97.09,Month-to-Month,DSL,0,1,Yes,0.19,Low Risk
+1092,33,30.66,Month-to-Month,No,7,0,No,0.14,Low Risk
+1093,48,27.51,Month-to-Month,DSL,6,0,No,0.24,Low Risk
+1094,23,92.82,Month-to-Month,DSL,4,0,No,0.07,Low Risk
+1095,62,69.55,Month-to-Month,Fiber Optic,9,0,No,0.03,Low Risk
+1096,37,88.84,Month-to-Month,Fiber Optic,4,1,No,0.12,Low Risk
+1097,44,63.48,One Year,Fiber Optic,6,0,No,0.0,
+1098,35,44.64,Month-to-Month,DSL,4,1,No,0.08,Low Risk
+1099,65,101.91,Two Year,No,7,0,No,0.0,
+1100,47,99.94,Two Year,Fiber Optic,5,0,No,0.01,Low Risk
+1101,3,89.47,Month-to-Month,Fiber Optic,4,0,Yes,0.38,Medium Risk
+1102,1,47.21,One Year,No,8,0,No,0.09,Low Risk
+1103,5,79.02,Two Year,Fiber Optic,1,0,No,0.37,Medium Risk
+1104,14,56.1,Two Year,DSL,0,0,No,0.01,Low Risk
+1105,27,29.16,One Year,Fiber Optic,7,0,No,0.03,Low Risk
+1106,9,111.73,Month-to-Month,DSL,2,0,Yes,0.8,High Risk
+1107,15,33.68,One Year,DSL,6,1,No,0.02,Low Risk
+1108,42,115.02,One Year,Fiber Optic,9,0,No,0.0,
+1109,51,64.6,One Year,No,7,0,No,0.09,Low Risk
+1110,63,38.51,Month-to-Month,DSL,5,0,No,0.23,Low Risk
+1111,52,74.19,Two Year,Fiber Optic,9,0,No,0.02,Low Risk
+1112,4,107.29,Two Year,DSL,8,0,No,0.06,Low Risk
+1113,23,93.22,Month-to-Month,Fiber Optic,6,0,No,0.13,Low Risk
+1114,15,100.66,Month-to-Month,Fiber Optic,9,0,Yes,0.79,High Risk
+1115,43,85.88,Month-to-Month,Fiber Optic,4,0,No,0.05,Low Risk
+1116,29,89.23,Two Year,DSL,7,0,No,0.05,Low Risk
+1117,36,104.92,One Year,Fiber Optic,1,0,No,0.01,Low Risk
+1118,13,44.97,One Year,No,6,0,No,0.11,Low Risk
+1119,32,68.94,Month-to-Month,Fiber Optic,3,0,No,0.08,Low Risk
+1120,71,42.12,One Year,Fiber Optic,8,0,No,0.03,Low Risk
+1121,59,118.77,Month-to-Month,No,0,0,No,0.05,Low Risk
+1122,28,114.41,Month-to-Month,DSL,6,1,Yes,0.16,Low Risk
+1123,66,23.94,One Year,Fiber Optic,5,0,No,0.03,Low Risk
+1124,42,90.56,Two Year,No,7,0,No,0.03,Low Risk
+1125,45,112.52,Two Year,DSL,4,0,No,0.01,Low Risk
+1126,62,38.06,Two Year,Fiber Optic,0,0,Yes,0.67,High Risk
+1127,57,76.79,Month-to-Month,DSL,0,0,No,0.04,Low Risk
+1128,6,111.55,Month-to-Month,Fiber Optic,8,0,No,0.03,Low Risk
+1129,28,23.39,One Year,Fiber Optic,9,0,Yes,0.66,High Risk
+1130,28,89.74,Two Year,DSL,5,1,Yes,0.58,Medium Risk
+1131,44,49.73,Month-to-Month,Fiber Optic,9,0,Yes,0.79,High Risk
+1132,30,112.44,Month-to-Month,DSL,4,0,No,0.21,Low Risk
+1133,62,117.11,Month-to-Month,DSL,0,0,No,0.0,
+1134,62,114.43,One Year,DSL,5,0,No,0.01,Low Risk
+1135,1,67.42,Month-to-Month,No,5,0,Yes,0.77,High Risk
+1136,27,106.2,Month-to-Month,DSL,2,1,No,0.2,Low Risk
+1137,62,104.45,Month-to-Month,No,7,0,No,0.18,Low Risk
+1138,3,51.91,Month-to-Month,Fiber Optic,0,0,Yes,0.8,High Risk
+1139,70,102.89,Two Year,DSL,0,0,No,0.03,Low Risk
+1140,27,23.7,Month-to-Month,Fiber Optic,5,0,No,0.22,Low Risk
+1141,9,79.63,One Year,Fiber Optic,9,1,No,0.15,Low Risk
+1142,62,43.0,One Year,Fiber Optic,0,0,No,0.09,Low Risk
+1143,37,32.06,Two Year,DSL,5,0,No,0.02,Low Risk
+1144,51,27.7,Month-to-Month,DSL,0,0,No,0.09,Low Risk
+1145,44,89.63,Two Year,DSL,5,0,No,0.06,Low Risk
+1146,24,53.99,One Year,DSL,2,0,No,0.03,Low Risk
+1147,59,92.48,Two Year,DSL,7,0,No,0.0,
+1148,32,26.54,Two Year,DSL,5,0,No,0.02,Low Risk
+1149,52,51.53,Month-to-Month,DSL,0,0,No,0.12,Low Risk
+1150,62,73.95,Month-to-Month,DSL,4,1,No,0.03,Low Risk
+1151,58,99.07,Month-to-Month,DSL,7,0,Yes,0.82,High Risk
+1152,52,51.88,Month-to-Month,DSL,2,0,No,0.17,Low Risk
+1153,12,82.59,Month-to-Month,No,5,0,Yes,0.79,High Risk
+1154,39,108.6,Month-to-Month,DSL,4,0,No,0.04,Low Risk
+1155,2,81.59,Month-to-Month,Fiber Optic,5,1,Yes,0.34,Medium Risk
+1156,3,43.3,Month-to-Month,DSL,9,0,Yes,0.85,High Risk
+1157,56,22.44,Month-to-Month,No,0,0,Yes,0.66,High Risk
+1158,59,107.01,Month-to-Month,DSL,6,0,No,0.41,Medium Risk
+1159,2,22.13,Month-to-Month,No,8,0,Yes,0.79,High Risk
+1160,2,107.47,Month-to-Month,Fiber Optic,1,0,Yes,0.85,High Risk
+1161,54,72.89,Month-to-Month,DSL,9,0,No,0.19,Low Risk
+1162,1,113.91,Month-to-Month,No,4,1,No,0.12,Low Risk
+1163,19,99.88,Two Year,Fiber Optic,9,0,No,0.04,Low Risk
+1164,2,119.79,Month-to-Month,DSL,3,1,No,0.11,Low Risk
+1165,53,55.07,Month-to-Month,Fiber Optic,5,0,No,0.12,Low Risk
+1166,44,96.72,Month-to-Month,No,5,0,No,0.15,Low Risk
+1167,32,60.19,Two Year,Fiber Optic,1,0,No,0.02,Low Risk
+1168,70,67.99,Two Year,DSL,1,0,No,0.0,
+1169,32,82.75,Two Year,Fiber Optic,3,0,No,0.01,Low Risk
+1170,68,107.37,One Year,Fiber Optic,0,1,No,0.03,Low Risk
+1171,55,118.41,Month-to-Month,No,8,1,No,0.14,Low Risk
+1172,56,96.83,Month-to-Month,Fiber Optic,6,1,No,0.16,Low Risk
+1173,17,61.78,Month-to-Month,DSL,6,0,No,0.35,Medium Risk
+1174,38,62.14,Two Year,No,2,1,No,0.0,
+1175,24,93.76,One Year,DSL,2,0,No,0.06,Low Risk
+1176,69,43.88,One Year,DSL,0,0,No,0.06,Low Risk
+1177,70,31.05,Month-to-Month,Fiber Optic,2,0,Yes,0.78,High Risk
+1178,11,55.46,Two Year,Fiber Optic,2,0,No,0.22,Low Risk
+1179,16,48.72,Month-to-Month,DSL,3,0,No,0.14,Low Risk
+1180,59,49.63,Month-to-Month,Fiber Optic,3,0,No,0.04,Low Risk
+1181,70,43.36,Month-to-Month,DSL,2,1,No,0.18,Low Risk
+1182,3,24.21,One Year,Fiber Optic,9,0,No,0.23,Low Risk
+1183,20,21.79,Month-to-Month,No,7,0,No,0.09,Low Risk
+1184,59,118.77,Two Year,DSL,7,1,No,0.04,Low Risk
+1185,36,62.78,Month-to-Month,DSL,0,0,No,0.07,Low Risk
+1186,19,58.43,One Year,DSL,6,1,No,0.06,Low Risk
+1187,67,87.96,Month-to-Month,No,1,0,No,0.04,Low Risk
+1188,19,41.83,Month-to-Month,DSL,0,0,Yes,0.7,High Risk
+1189,20,115.0,Two Year,DSL,2,0,No,0.03,Low Risk
+1190,71,98.63,One Year,Fiber Optic,3,0,No,0.0,
+1191,52,28.94,One Year,Fiber Optic,5,0,No,0.04,Low Risk
+1192,33,61.76,Two Year,DSL,9,0,No,0.01,Low Risk
+1193,40,107.91,One Year,Fiber Optic,4,0,No,0.0,
+1194,39,114.47,Month-to-Month,DSL,3,1,No,0.09,Low Risk
+1195,1,66.74,One Year,No,7,0,No,0.21,Low Risk
+1196,11,81.34,Month-to-Month,DSL,3,0,No,0.14,Low Risk
+1197,57,36.7,Month-to-Month,DSL,9,0,No,0.57,Medium Risk
+1198,50,119.12,Month-to-Month,Fiber Optic,1,0,Yes,0.72,High Risk
+1199,23,43.17,One Year,DSL,2,0,No,0.01,Low Risk
+1200,31,114.27,One Year,Fiber Optic,5,1,No,0.0,
+1201,42,84.96,Month-to-Month,DSL,7,0,Yes,0.59,Medium Risk
+1202,7,80.77,One Year,DSL,7,0,No,0.47,Medium Risk
+1203,16,71.27,Two Year,Fiber Optic,8,0,Yes,0.05,Low Risk
+1204,60,43.07,Month-to-Month,Fiber Optic,6,0,No,0.39,Medium Risk
+1205,2,37.65,Month-to-Month,Fiber Optic,1,0,Yes,0.86,High Risk
+1206,1,42.05,One Year,DSL,7,0,No,0.41,Medium Risk
+1207,48,38.64,Month-to-Month,DSL,6,0,No,0.1,Low Risk
+1208,12,97.96,One Year,DSL,7,0,No,0.12,Low Risk
+1209,69,55.01,Month-to-Month,DSL,2,0,No,0.22,Low Risk
+1210,37,25.78,Month-to-Month,Fiber Optic,6,0,No,0.04,Low Risk
+1211,32,116.91,One Year,No,9,0,No,0.07,Low Risk
+1212,9,108.38,One Year,DSL,8,0,No,0.12,Low Risk
+1213,19,112.78,Two Year,DSL,2,1,No,0.01,Low Risk
+1214,48,119.49,Two Year,DSL,9,0,No,0.04,Low Risk
+1215,3,37.39,One Year,DSL,5,0,No,0.57,Medium Risk
+1216,20,59.62,One Year,DSL,1,0,No,0.01,Low Risk
+1217,24,95.82,Month-to-Month,No,1,1,No,0.15,Low Risk
+1218,54,89.6,Month-to-Month,Fiber Optic,4,1,No,0.26,Low Risk
+1219,33,35.39,Month-to-Month,No,4,1,No,0.04,Low Risk
+1220,24,101.58,Two Year,No,6,0,No,0.02,Low Risk
+1221,36,42.44,Month-to-Month,Fiber Optic,1,0,Yes,0.68,High Risk
+1222,38,42.38,One Year,Fiber Optic,6,0,No,0.04,Low Risk
+1223,25,73.7,Month-to-Month,DSL,4,0,Yes,0.23,Low Risk
+1224,18,79.29,One Year,Fiber Optic,5,0,No,0.04,Low Risk
+1225,66,78.01,Two Year,No,7,0,No,0.0,
+1226,54,29.15,Month-to-Month,DSL,9,0,Yes,0.91,High Risk
+1227,35,107.75,Two Year,No,3,0,No,0.03,Low Risk
+1228,61,46.56,Month-to-Month,DSL,6,0,No,0.06,Low Risk
+1229,41,32.95,Month-to-Month,No,5,0,No,0.04,Low Risk
+1230,33,108.87,Two Year,No,9,1,No,0.03,Low Risk
+1231,68,115.57,Month-to-Month,Fiber Optic,1,0,No,0.07,Low Risk
+1232,33,106.21,Two Year,Fiber Optic,7,0,No,0.01,Low Risk
+1233,14,100.95,Month-to-Month,Fiber Optic,9,0,Yes,0.84,High Risk
+1234,21,85.52,Month-to-Month,No,8,0,No,0.13,Low Risk
+1235,48,75.09,Two Year,No,4,0,No,0.0,
+1236,20,28.7,Month-to-Month,Fiber Optic,9,0,Yes,0.94,High Risk
+1237,8,60.85,Two Year,Fiber Optic,3,0,Yes,0.59,Medium Risk
+1238,7,57.27,Two Year,Fiber Optic,5,0,No,0.52,Medium Risk
+1239,67,45.98,Month-to-Month,No,7,1,No,0.12,Low Risk
+1240,17,92.34,Month-to-Month,Fiber Optic,2,0,Yes,0.2,Low Risk
+1241,33,69.59,Month-to-Month,No,9,0,No,0.18,Low Risk
+1242,48,28.1,Month-to-Month,Fiber Optic,0,0,No,0.04,Low Risk
+1243,59,42.02,Month-to-Month,DSL,3,1,Yes,0.73,High Risk
+1244,22,88.33,Month-to-Month,DSL,3,0,No,0.32,Medium Risk
+1245,30,27.61,Month-to-Month,Fiber Optic,0,0,No,0.02,Low Risk
+1246,38,105.12,Month-to-Month,DSL,8,1,Yes,0.63,High Risk
+1247,51,69.51,Two Year,DSL,2,1,No,0.0,
+1248,54,68.06,Two Year,Fiber Optic,4,1,No,0.0,
+1249,8,79.24,One Year,DSL,5,0,Yes,0.83,High Risk
+1250,27,102.47,Month-to-Month,DSL,7,0,Yes,0.69,High Risk
+1251,27,54.78,Two Year,Fiber Optic,5,1,No,0.01,Low Risk
+1252,21,87.8,Month-to-Month,No,2,0,No,0.13,Low Risk
+1253,30,76.57,One Year,Fiber Optic,5,0,No,0.01,Low Risk
+1254,28,46.7,Two Year,No,0,0,No,0.02,Low Risk
+1255,64,107.86,Month-to-Month,Fiber Optic,3,0,No,0.17,Low Risk
+1256,69,99.74,One Year,DSL,5,1,No,0.05,Low Risk
+1257,61,85.85,Two Year,Fiber Optic,6,0,No,0.03,Low Risk
+1258,48,105.06,Two Year,Fiber Optic,9,0,No,0.0,
+1259,19,106.73,One Year,DSL,2,1,No,0.03,Low Risk
+1260,4,90.84,Month-to-Month,DSL,8,0,No,0.28,Low Risk
+1261,35,103.7,Month-to-Month,Fiber Optic,6,0,No,0.33,Medium Risk
+1262,64,89.75,Month-to-Month,DSL,0,0,No,0.05,Low Risk
+1263,49,88.01,One Year,Fiber Optic,1,0,No,0.0,
+1264,17,81.86,Month-to-Month,DSL,0,0,No,0.08,Low Risk
+1265,44,95.27,Two Year,Fiber Optic,8,0,No,0.03,Low Risk
+1266,30,35.86,Month-to-Month,Fiber Optic,8,0,Yes,0.92,High Risk
+1267,46,108.09,Month-to-Month,DSL,6,0,Yes,0.62,High Risk
+1268,6,107.18,Month-to-Month,DSL,9,0,No,0.22,Low Risk
+1269,37,22.92,One Year,Fiber Optic,2,0,No,0.06,Low Risk
+1270,24,102.58,Month-to-Month,No,4,0,No,0.11,Low Risk
+1271,46,32.89,Month-to-Month,No,3,0,No,0.09,Low Risk
+1272,53,53.51,Month-to-Month,Fiber Optic,6,0,Yes,0.77,High Risk
+1273,60,94.35,Month-to-Month,Fiber Optic,8,0,Yes,0.85,High Risk
+1274,63,36.08,Month-to-Month,DSL,1,0,No,0.37,Medium Risk
+1275,32,101.8,Two Year,DSL,7,0,No,0.06,Low Risk
+1276,33,103.21,Month-to-Month,DSL,8,1,Yes,0.75,High Risk
+1277,67,70.75,Month-to-Month,Fiber Optic,9,0,No,0.14,Low Risk
+1278,18,20.64,Two Year,DSL,9,0,No,0.26,Low Risk
+1279,25,48.7,Two Year,DSL,8,0,No,0.03,Low Risk
+1280,54,81.69,One Year,Fiber Optic,9,1,No,0.04,Low Risk
+1281,58,118.12,Month-to-Month,Fiber Optic,6,0,No,0.03,Low Risk
+1282,67,83.18,Two Year,DSL,8,0,No,0.02,Low Risk
+1283,46,45.98,Two Year,DSL,8,0,No,0.02,Low Risk
+1284,24,83.4,One Year,Fiber Optic,2,0,No,0.02,Low Risk
+1285,32,74.0,Month-to-Month,Fiber Optic,3,0,Yes,0.13,Low Risk
+1286,47,97.98,One Year,Fiber Optic,1,0,No,0.02,Low Risk
+1287,23,30.7,One Year,DSL,9,0,No,0.04,Low Risk
+1288,66,96.1,Month-to-Month,Fiber Optic,2,0,No,0.14,Low Risk
+1289,27,74.13,Month-to-Month,No,4,0,No,0.16,Low Risk
+1290,2,116.3,Two Year,DSL,4,0,No,0.07,Low Risk
+1291,17,54.19,One Year,No,5,0,Yes,0.73,High Risk
+1292,33,83.26,Month-to-Month,DSL,6,0,No,0.04,Low Risk
+1293,9,113.2,One Year,DSL,6,0,Yes,0.76,High Risk
+1294,43,30.25,Month-to-Month,Fiber Optic,0,0,No,0.12,Low Risk
+1295,48,113.72,Month-to-Month,DSL,1,1,No,0.06,Low Risk
+1296,39,88.79,One Year,DSL,8,0,No,0.0,
+1297,42,26.78,Month-to-Month,Fiber Optic,9,1,Yes,0.82,High Risk
+1298,26,50.1,Month-to-Month,Fiber Optic,1,0,No,0.1,Low Risk
+1299,50,90.82,Two Year,No,5,1,No,0.04,Low Risk
+1300,25,26.74,Month-to-Month,Fiber Optic,0,0,No,0.13,Low Risk
+1301,24,78.22,Month-to-Month,DSL,2,0,No,0.09,Low Risk
+1302,13,54.59,Two Year,Fiber Optic,1,0,No,0.02,Low Risk
+1303,60,82.09,One Year,Fiber Optic,2,0,Yes,0.58,Medium Risk
+1304,7,24.57,One Year,No,4,0,Yes,0.72,High Risk
+1305,57,107.15,Two Year,No,9,0,No,0.0,
+1306,36,117.35,Month-to-Month,No,5,0,Yes,0.64,High Risk
+1307,45,116.89,One Year,Fiber Optic,8,0,No,0.0,
+1308,20,94.97,Month-to-Month,Fiber Optic,9,0,No,0.4,Medium Risk
+1309,65,33.01,Two Year,DSL,3,0,No,0.17,Low Risk
+1310,8,95.83,Month-to-Month,No,6,0,Yes,0.76,High Risk
+1311,16,22.46,One Year,DSL,5,0,No,0.22,Low Risk
+1312,14,22.21,Month-to-Month,DSL,1,0,No,0.26,Low Risk
+1313,15,52.36,Month-to-Month,DSL,9,0,Yes,0.83,High Risk
+1314,66,68.86,One Year,Fiber Optic,7,1,No,0.01,Low Risk
+1315,32,97.04,One Year,Fiber Optic,6,0,No,0.03,Low Risk
+1316,63,88.33,One Year,Fiber Optic,6,0,No,0.07,Low Risk
+1317,51,64.59,Month-to-Month,No,7,0,No,0.08,Low Risk
+1318,25,47.36,Month-to-Month,No,0,0,No,0.04,Low Risk
+1319,58,119.71,One Year,DSL,0,0,No,0.0,
+1320,63,62.62,Two Year,DSL,7,0,No,0.0,
+1321,62,65.14,One Year,No,3,0,No,0.01,Low Risk
+1322,22,36.36,Two Year,No,4,0,No,0.06,Low Risk
+1323,58,99.48,Two Year,Fiber Optic,7,0,No,0.01,Low Risk
+1324,58,89.37,One Year,Fiber Optic,4,0,No,0.01,Low Risk
+1325,49,42.08,One Year,DSL,9,0,No,0.01,Low Risk
+1326,52,28.24,Two Year,No,3,0,No,0.01,Low Risk
+1327,42,88.05,One Year,Fiber Optic,5,1,No,0.02,Low Risk
+1328,70,85.45,Two Year,Fiber Optic,4,0,No,0.04,Low Risk
+1329,15,47.33,One Year,DSL,6,0,No,0.02,Low Risk
+1330,54,115.09,One Year,No,9,0,No,0.02,Low Risk
+1331,60,35.11,Month-to-Month,Fiber Optic,6,0,No,0.08,Low Risk
+1332,8,63.23,Month-to-Month,DSL,3,0,Yes,0.22,Low Risk
+1333,53,114.36,Two Year,Fiber Optic,4,0,No,0.01,Low Risk
+1334,60,61.97,One Year,Fiber Optic,2,0,No,0.02,Low Risk
+1335,5,83.85,One Year,Fiber Optic,3,0,No,0.11,Low Risk
+1336,68,59.76,Two Year,Fiber Optic,3,0,No,0.03,Low Risk
+1337,6,47.42,One Year,Fiber Optic,2,0,No,0.07,Low Risk
+1338,47,118.4,Month-to-Month,No,9,0,No,0.1,Low Risk
+1339,55,60.93,One Year,DSL,4,0,No,0.05,Low Risk
+1340,40,109.41,One Year,DSL,4,0,No,0.03,Low Risk
+1341,52,43.0,Month-to-Month,DSL,6,0,No,0.33,Medium Risk
+1342,16,41.31,Month-to-Month,Fiber Optic,3,0,No,0.18,Low Risk
+1343,13,23.11,Month-to-Month,Fiber Optic,3,1,No,0.09,Low Risk
+1344,30,85.17,Month-to-Month,No,8,0,No,0.21,Low Risk
+1345,19,56.85,Month-to-Month,Fiber Optic,5,0,Yes,0.74,High Risk
+1346,17,106.44,Month-to-Month,Fiber Optic,3,0,Yes,0.79,High Risk
+1347,63,67.32,Month-to-Month,No,1,1,Yes,0.77,High Risk
+1348,19,116.82,Month-to-Month,DSL,5,0,No,0.08,Low Risk
+1349,58,38.55,Month-to-Month,No,1,0,No,0.17,Low Risk
+1350,55,106.86,One Year,Fiber Optic,4,0,No,0.01,Low Risk
+1351,62,97.66,Two Year,Fiber Optic,5,0,No,0.02,Low Risk
+1352,23,97.09,One Year,Fiber Optic,3,0,No,0.0,
+1353,9,104.48,Month-to-Month,Fiber Optic,2,0,No,0.21,Low Risk
+1354,12,96.1,Month-to-Month,DSL,6,0,Yes,0.78,High Risk
+1355,1,82.62,Month-to-Month,Fiber Optic,1,0,No,0.22,Low Risk
+1356,58,33.12,Month-to-Month,Fiber Optic,5,0,No,0.05,Low Risk
+1357,1,23.25,Month-to-Month,No,3,0,Yes,0.77,High Risk
+1358,34,112.08,Month-to-Month,Fiber Optic,5,0,No,0.23,Low Risk
+1359,48,81.67,Month-to-Month,No,3,0,No,0.08,Low Risk
+1360,1,99.65,Two Year,Fiber Optic,3,0,No,0.11,Low Risk
+1361,16,68.15,Month-to-Month,Fiber Optic,3,0,Yes,0.69,High Risk
+1362,61,31.73,Month-to-Month,Fiber Optic,8,0,Yes,0.84,High Risk
+1363,64,32.52,Two Year,Fiber Optic,6,0,No,0.01,Low Risk
+1364,63,88.56,Month-to-Month,No,2,0,No,0.04,Low Risk
+1365,69,63.03,Month-to-Month,Fiber Optic,2,0,No,0.1,Low Risk
+1366,22,40.05,One Year,Fiber Optic,5,0,No,0.04,Low Risk
+1367,67,69.16,One Year,DSL,5,0,No,0.01,Low Risk
+1368,26,26.42,One Year,Fiber Optic,3,0,No,0.06,Low Risk
+1369,16,78.2,Month-to-Month,DSL,8,0,Yes,0.39,Medium Risk
+1370,51,46.9,Month-to-Month,Fiber Optic,3,0,No,0.03,Low Risk
+1371,57,99.76,Month-to-Month,DSL,8,0,Yes,0.86,High Risk
+1372,29,51.04,Month-to-Month,DSL,3,0,Yes,0.18,Low Risk
+1373,69,65.52,Two Year,DSL,1,0,No,0.0,
+1374,47,21.16,One Year,DSL,1,0,Yes,0.66,High Risk
+1375,62,27.24,Month-to-Month,DSL,4,0,No,0.04,Low Risk
+1376,69,59.25,One Year,No,3,1,No,0.03,Low Risk
+1377,16,67.99,Month-to-Month,Fiber Optic,6,0,No,0.4,Medium Risk
+1378,48,80.0,Two Year,Fiber Optic,4,0,No,0.02,Low Risk
+1379,39,49.17,Month-to-Month,Fiber Optic,5,0,No,0.11,Low Risk
+1380,33,89.5,Month-to-Month,DSL,9,0,Yes,0.84,High Risk
+1381,23,106.01,Month-to-Month,No,3,0,No,0.11,Low Risk
+1382,10,97.99,One Year,DSL,1,0,No,0.05,Low Risk
+1383,69,23.96,One Year,DSL,9,0,No,0.09,Low Risk
+1384,34,68.05,Month-to-Month,Fiber Optic,8,0,No,0.09,Low Risk
+1385,52,30.49,Month-to-Month,DSL,9,0,No,0.26,Low Risk
+1386,10,44.2,Month-to-Month,Fiber Optic,6,0,Yes,0.84,High Risk
+1387,19,118.67,Month-to-Month,DSL,3,0,No,0.08,Low Risk
+1388,58,34.25,Two Year,Fiber Optic,2,0,No,0.03,Low Risk
+1389,1,69.89,Month-to-Month,Fiber Optic,9,1,Yes,0.73,High Risk
+1390,69,81.82,Month-to-Month,DSL,2,0,Yes,0.73,High Risk
+1391,4,90.25,One Year,Fiber Optic,8,0,No,0.11,Low Risk
+1392,16,75.96,Month-to-Month,DSL,4,0,No,0.18,Low Risk
+1393,24,20.98,One Year,Fiber Optic,2,0,No,0.05,Low Risk
+1394,2,52.65,Two Year,DSL,4,0,No,0.36,Medium Risk
+1395,32,71.77,Month-to-Month,Fiber Optic,1,1,Yes,0.76,High Risk
+1396,24,28.79,Two Year,Fiber Optic,3,0,No,0.04,Low Risk
+1397,12,55.06,One Year,DSL,9,1,Yes,0.71,High Risk
+1398,50,23.32,Month-to-Month,No,1,0,No,0.1,Low Risk
+1399,35,27.86,Month-to-Month,No,1,0,No,0.09,Low Risk
+1400,33,59.69,Month-to-Month,Fiber Optic,7,1,No,0.1,Low Risk
+1401,33,33.27,One Year,Fiber Optic,0,0,No,0.09,Low Risk
+1402,61,76.75,One Year,DSL,6,0,No,0.02,Low Risk
+1403,51,88.95,Two Year,Fiber Optic,4,0,No,0.01,Low Risk
+1404,43,100.06,Two Year,DSL,7,1,No,0.02,Low Risk
+1405,12,40.02,One Year,DSL,0,0,No,0.02,Low Risk
+1406,67,36.75,One Year,No,6,1,No,0.06,Low Risk
+1407,65,30.46,Month-to-Month,Fiber Optic,4,0,No,0.06,Low Risk
+1408,33,83.64,Month-to-Month,Fiber Optic,3,0,No,0.13,Low Risk
+1409,40,90.65,Month-to-Month,DSL,6,0,No,0.11,Low Risk
+1410,43,23.16,One Year,Fiber Optic,9,0,No,0.08,Low Risk
+1411,44,113.62,Month-to-Month,DSL,1,1,No,0.09,Low Risk
+1412,29,25.2,Month-to-Month,DSL,0,0,Yes,0.65,High Risk
+1413,13,74.13,Month-to-Month,DSL,0,0,No,0.12,Low Risk
+1414,12,90.91,Month-to-Month,Fiber Optic,0,0,No,0.23,Low Risk
+1415,46,107.1,One Year,Fiber Optic,4,0,No,0.0,
+1416,2,91.41,Month-to-Month,DSL,9,0,Yes,0.75,High Risk
+1417,35,100.17,One Year,Fiber Optic,6,1,No,0.02,Low Risk
+1418,8,53.95,Month-to-Month,DSL,1,1,Yes,0.21,Low Risk
+1419,26,101.48,One Year,Fiber Optic,9,0,No,0.04,Low Risk
+1420,34,28.01,Month-to-Month,No,7,1,No,0.2,Low Risk
+1421,7,109.48,Month-to-Month,Fiber Optic,3,1,Yes,0.72,High Risk
+1422,68,74.76,One Year,No,2,0,No,0.11,Low Risk
+1423,58,101.73,Month-to-Month,No,9,0,No,0.14,Low Risk
+1424,29,65.23,Month-to-Month,Fiber Optic,7,1,No,0.16,Low Risk
+1425,36,84.36,Month-to-Month,Fiber Optic,1,0,No,0.1,Low Risk
+1426,21,72.64,Month-to-Month,No,2,1,No,0.09,Low Risk
+1427,36,93.16,Month-to-Month,DSL,2,0,No,0.06,Low Risk
+1428,10,28.16,Month-to-Month,DSL,9,0,Yes,0.48,Medium Risk
+1429,24,26.04,One Year,No,0,0,No,0.03,Low Risk
+1430,64,44.71,Two Year,Fiber Optic,5,0,No,0.05,Low Risk
+1431,49,35.95,Month-to-Month,DSL,1,0,No,0.07,Low Risk
+1432,36,107.18,Two Year,Fiber Optic,0,0,No,0.02,Low Risk
+1433,24,41.92,Month-to-Month,Fiber Optic,1,0,No,0.09,Low Risk
+1434,23,117.59,One Year,Fiber Optic,5,0,No,0.02,Low Risk
+1435,62,53.69,One Year,Fiber Optic,3,0,No,0.01,Low Risk
+1436,37,38.21,One Year,Fiber Optic,5,1,No,0.02,Low Risk
+1437,12,98.97,Month-to-Month,Fiber Optic,8,0,No,0.11,Low Risk
+1438,55,85.87,Month-to-Month,Fiber Optic,9,0,No,0.74,High Risk
+1439,13,69.82,Month-to-Month,Fiber Optic,9,0,Yes,0.59,Medium Risk
+1440,23,75.54,Month-to-Month,Fiber Optic,7,0,Yes,0.79,High Risk
+1441,30,91.92,Month-to-Month,Fiber Optic,0,0,No,0.01,Low Risk
+1442,17,42.85,Month-to-Month,DSL,7,0,No,0.12,Low Risk
+1443,62,119.63,Month-to-Month,Fiber Optic,8,0,No,0.26,Low Risk
+1444,13,117.48,Month-to-Month,No,5,0,No,0.08,Low Risk
+1445,59,85.03,One Year,DSL,9,0,No,0.01,Low Risk
+1446,19,39.95,Two Year,DSL,4,1,No,0.0,
+1447,49,88.02,Two Year,Fiber Optic,5,0,No,0.0,
+1448,12,27.22,Month-to-Month,No,5,1,No,0.07,Low Risk
+1449,61,23.07,One Year,DSL,8,1,No,0.03,Low Risk
+1450,19,45.77,Two Year,DSL,3,1,No,0.01,Low Risk
+1451,9,66.26,Month-to-Month,DSL,1,1,No,0.11,Low Risk
+1452,71,106.83,Month-to-Month,Fiber Optic,8,0,No,0.05,Low Risk
+1453,28,92.72,Two Year,DSL,1,0,No,0.03,Low Risk
+1454,52,94.27,Month-to-Month,DSL,9,0,No,0.07,Low Risk
+1455,16,62.55,Month-to-Month,Fiber Optic,8,0,Yes,0.46,Medium Risk
+1456,69,54.59,Month-to-Month,No,1,0,No,0.11,Low Risk
+1457,12,57.1,Month-to-Month,Fiber Optic,7,0,No,0.18,Low Risk
+1458,25,118.76,Two Year,DSL,8,1,No,0.03,Low Risk
+1459,52,24.01,One Year,Fiber Optic,9,1,No,0.05,Low Risk
+1460,53,106.7,Month-to-Month,No,8,0,Yes,0.33,Medium Risk
+1461,23,77.87,Month-to-Month,Fiber Optic,9,0,Yes,0.74,High Risk
+1462,16,63.86,One Year,No,8,1,No,0.06,Low Risk
+1463,57,92.53,One Year,No,1,0,No,0.02,Low Risk
+1464,39,68.67,Month-to-Month,DSL,3,0,No,0.27,Low Risk
+1465,53,107.34,Two Year,Fiber Optic,6,0,No,0.0,
+1466,42,110.07,Month-to-Month,DSL,1,0,No,0.01,Low Risk
+1467,58,62.17,Month-to-Month,Fiber Optic,0,0,No,0.01,Low Risk
+1468,39,47.68,One Year,DSL,2,1,No,0.01,Low Risk
+1469,14,79.24,Month-to-Month,DSL,3,0,Yes,0.76,High Risk
+1470,5,111.24,Two Year,No,7,0,No,0.09,Low Risk
+1471,35,41.07,One Year,DSL,5,0,No,0.04,Low Risk
+1472,18,82.3,One Year,No,1,0,No,0.05,Low Risk
+1473,9,83.16,Month-to-Month,DSL,8,1,No,0.1,Low Risk
+1474,58,93.31,Month-to-Month,DSL,1,0,No,0.09,Low Risk
+1475,17,33.16,Month-to-Month,No,4,0,Yes,0.77,High Risk
+1476,7,91.58,Month-to-Month,Fiber Optic,3,0,No,0.17,Low Risk
+1477,46,110.9,One Year,Fiber Optic,6,0,No,0.03,Low Risk
+1478,13,37.97,Two Year,DSL,7,0,No,0.13,Low Risk
+1479,40,43.75,One Year,Fiber Optic,4,0,No,0.01,Low Risk
+1480,42,117.14,Two Year,Fiber Optic,9,0,No,0.0,
+1481,9,38.1,One Year,Fiber Optic,4,0,No,0.15,Low Risk
+1482,50,105.44,Month-to-Month,Fiber Optic,1,0,Yes,0.83,High Risk
+1483,27,69.23,Month-to-Month,No,7,1,No,0.03,Low Risk
+1484,66,44.72,One Year,Fiber Optic,1,1,No,0.03,Low Risk
+1485,5,107.07,Month-to-Month,No,9,0,No,0.07,Low Risk
+1486,29,64.53,Month-to-Month,Fiber Optic,5,0,No,0.42,Medium Risk
+1487,37,71.48,Month-to-Month,Fiber Optic,7,0,No,0.12,Low Risk
+1488,38,55.92,Two Year,DSL,5,1,No,0.0,
+1489,8,79.3,Month-to-Month,DSL,3,0,Yes,0.91,High Risk
+1490,65,36.35,One Year,No,3,0,No,0.02,Low Risk
+1491,17,59.11,Two Year,DSL,5,0,No,0.1,Low Risk
+1492,71,116.94,Month-to-Month,DSL,3,0,No,0.13,Low Risk
+1493,45,45.81,Month-to-Month,DSL,7,0,No,0.41,Medium Risk
+1494,4,85.67,Month-to-Month,DSL,8,0,Yes,0.79,High Risk
+1495,36,52.52,One Year,No,0,0,No,0.02,Low Risk
+1496,70,97.35,One Year,No,3,0,No,0.04,Low Risk
+1497,31,33.09,Two Year,Fiber Optic,3,0,No,0.01,Low Risk
+1498,19,116.98,One Year,DSL,1,0,No,0.01,Low Risk
+1499,61,65.38,Month-to-Month,Fiber Optic,5,0,No,0.03,Low Risk
+1500,54,43.61,Month-to-Month,Fiber Optic,2,0,No,0.42,Medium Risk
+1501,39,27.35,One Year,No,6,1,No,0.05,Low Risk
+1502,19,36.98,Month-to-Month,Fiber Optic,4,0,Yes,0.71,High Risk
+1503,39,71.98,Month-to-Month,DSL,3,0,No,0.12,Low Risk
+1504,67,53.7,Month-to-Month,Fiber Optic,4,0,No,0.07,Low Risk
+1505,45,102.89,Month-to-Month,No,7,1,No,0.37,Medium Risk
+1506,13,63.09,Month-to-Month,Fiber Optic,2,0,No,0.06,Low Risk
+1507,58,44.87,Month-to-Month,Fiber Optic,6,0,No,0.02,Low Risk
+1508,20,81.71,Month-to-Month,DSL,5,1,No,0.13,Low Risk
+1509,61,90.68,Month-to-Month,Fiber Optic,0,0,No,0.06,Low Risk
+1510,39,36.7,One Year,Fiber Optic,6,0,No,0.14,Low Risk
+1511,1,36.76,Two Year,DSL,6,0,No,0.22,Low Risk
+1512,3,23.67,Month-to-Month,Fiber Optic,0,0,Yes,0.52,Medium Risk
+1513,62,93.64,One Year,DSL,8,1,No,0.02,Low Risk
+1514,63,86.38,Month-to-Month,DSL,5,0,No,0.05,Low Risk
+1515,25,67.46,Month-to-Month,DSL,1,0,No,0.11,Low Risk
+1516,56,104.42,Two Year,DSL,4,0,No,0.01,Low Risk
+1517,33,100.57,One Year,Fiber Optic,3,0,No,0.0,
+1518,38,78.54,Two Year,DSL,6,0,No,0.09,Low Risk
+1519,6,106.83,Month-to-Month,DSL,7,0,Yes,0.73,High Risk
+1520,58,40.58,Month-to-Month,No,0,0,No,0.04,Low Risk
+1521,44,31.19,Two Year,Fiber Optic,4,0,No,0.01,Low Risk
+1522,45,46.97,Month-to-Month,Fiber Optic,2,0,No,0.09,Low Risk
+1523,32,25.71,Month-to-Month,Fiber Optic,0,0,No,0.05,Low Risk
+1524,45,73.12,One Year,Fiber Optic,2,0,No,0.02,Low Risk
+1525,61,113.66,Two Year,DSL,5,0,No,0.03,Low Risk
+1526,47,23.93,Two Year,No,6,0,No,0.02,Low Risk
+1527,21,32.21,Month-to-Month,DSL,7,0,Yes,0.75,High Risk
+1528,36,65.22,Two Year,Fiber Optic,3,0,No,0.0,
+1529,19,113.39,Month-to-Month,DSL,2,0,No,0.02,Low Risk
+1530,20,51.62,Month-to-Month,Fiber Optic,4,0,No,0.12,Low Risk
+1531,57,70.72,One Year,Fiber Optic,8,1,No,0.01,Low Risk
+1532,18,24.16,Month-to-Month,Fiber Optic,5,0,No,0.14,Low Risk
+1533,47,34.83,Month-to-Month,DSL,8,0,Yes,0.85,High Risk
+1534,49,118.66,One Year,Fiber Optic,5,0,No,0.03,Low Risk
+1535,14,116.51,Month-to-Month,No,1,0,No,0.33,Medium Risk
+1536,15,20.49,Month-to-Month,No,4,0,No,0.12,Low Risk
+1537,31,115.18,Month-to-Month,DSL,8,1,No,0.14,Low Risk
+1538,1,83.91,Month-to-Month,DSL,7,0,Yes,0.78,High Risk
+1539,54,106.79,Month-to-Month,No,6,0,No,0.08,Low Risk
+1540,3,65.47,One Year,Fiber Optic,0,0,No,0.14,Low Risk
+1541,16,71.56,One Year,Fiber Optic,3,0,No,0.02,Low Risk
+1542,57,68.88,Month-to-Month,No,6,0,No,0.03,Low Risk
+1543,12,86.69,Two Year,No,6,0,No,0.13,Low Risk
+1544,16,33.97,Month-to-Month,Fiber Optic,5,0,Yes,0.72,High Risk
+1545,24,23.0,Month-to-Month,Fiber Optic,7,0,No,0.43,Medium Risk
+1546,28,50.79,Two Year,DSL,5,0,No,0.01,Low Risk
+1547,8,90.47,Month-to-Month,Fiber Optic,9,0,No,0.15,Low Risk
+1548,36,40.19,Two Year,DSL,2,0,No,0.0,
+1549,8,87.34,Month-to-Month,DSL,3,0,Yes,0.74,High Risk
+1550,58,116.99,One Year,DSL,2,0,No,0.04,Low Risk
+1551,60,29.39,Month-to-Month,DSL,0,1,Yes,0.34,Medium Risk
+1552,50,87.26,Month-to-Month,Fiber Optic,9,0,Yes,0.76,High Risk
+1553,28,64.38,Month-to-Month,Fiber Optic,4,1,No,0.08,Low Risk
+1554,41,106.81,One Year,Fiber Optic,0,1,No,0.0,
+1555,64,37.71,Month-to-Month,DSL,0,1,Yes,0.74,High Risk
+1556,27,89.26,Two Year,No,1,0,No,0.03,Low Risk
+1557,63,103.81,Month-to-Month,DSL,3,0,No,0.15,Low Risk
+1558,17,114.46,Month-to-Month,Fiber Optic,5,0,No,0.02,Low Risk
+1559,33,88.32,Month-to-Month,No,7,0,No,0.13,Low Risk
+1560,29,69.72,One Year,Fiber Optic,2,0,No,0.0,
+1561,13,81.78,Two Year,Fiber Optic,0,0,No,0.09,Low Risk
+1562,46,106.89,Month-to-Month,No,2,0,Yes,0.75,High Risk
+1563,35,77.06,One Year,DSL,2,0,No,0.01,Low Risk
+1564,6,23.04,Month-to-Month,Fiber Optic,4,1,Yes,0.25,Low Risk
+1565,69,113.09,One Year,Fiber Optic,3,1,No,0.0,
+1566,47,88.95,Two Year,DSL,3,1,No,0.01,Low Risk
+1567,25,87.65,Month-to-Month,No,8,0,No,0.14,Low Risk
+1568,66,41.57,Month-to-Month,No,6,1,No,0.11,Low Risk
+1569,10,85.89,Two Year,Fiber Optic,3,0,No,0.03,Low Risk
+1570,56,59.39,Two Year,DSL,2,0,No,0.05,Low Risk
+1571,30,85.12,One Year,DSL,5,0,No,0.11,Low Risk
+1572,5,30.66,Month-to-Month,Fiber Optic,2,1,No,0.09,Low Risk
+1573,33,85.78,Month-to-Month,DSL,5,1,Yes,0.69,High Risk
+1574,65,119.94,Month-to-Month,Fiber Optic,8,0,Yes,0.71,High Risk
+1575,18,24.82,Two Year,Fiber Optic,5,0,No,0.05,Low Risk
+1576,49,117.72,One Year,Fiber Optic,3,0,No,0.01,Low Risk
+1577,11,60.69,Month-to-Month,Fiber Optic,4,0,Yes,0.23,Low Risk
+1578,26,107.08,Month-to-Month,Fiber Optic,5,1,No,0.35,Medium Risk
+1579,63,98.24,Month-to-Month,DSL,2,1,No,0.32,Medium Risk
+1580,59,76.7,Month-to-Month,DSL,7,0,Yes,0.82,High Risk
+1581,27,93.84,Month-to-Month,Fiber Optic,3,0,Yes,0.7,High Risk
+1582,49,107.85,Month-to-Month,Fiber Optic,7,0,No,0.23,Low Risk
+1583,33,60.41,Month-to-Month,Fiber Optic,9,0,No,0.15,Low Risk
+1584,1,52.7,Month-to-Month,Fiber Optic,9,0,No,0.16,Low Risk
+1585,21,86.76,Month-to-Month,No,2,0,No,0.07,Low Risk
+1586,55,100.78,Month-to-Month,DSL,9,0,No,0.15,Low Risk
+1587,6,96.23,Month-to-Month,DSL,6,0,No,0.46,Medium Risk
+1588,69,99.78,Month-to-Month,DSL,8,0,No,0.05,Low Risk
+1589,5,63.56,Month-to-Month,Fiber Optic,3,0,No,0.19,Low Risk
+1590,3,101.78,Month-to-Month,Fiber Optic,7,0,Yes,0.81,High Risk
+1591,53,32.02,Month-to-Month,No,2,0,No,0.03,Low Risk
+1592,23,74.45,One Year,Fiber Optic,6,0,No,0.04,Low Risk
+1593,53,20.58,Two Year,No,2,1,No,0.09,Low Risk
+1594,37,52.46,One Year,No,6,0,No,0.0,
+1595,17,56.65,Month-to-Month,DSL,9,1,No,0.07,Low Risk
+1596,1,59.62,Two Year,Fiber Optic,9,1,No,0.22,Low Risk
+1597,51,89.55,One Year,Fiber Optic,5,0,No,0.03,Low Risk
+1598,45,58.86,Month-to-Month,DSL,1,0,No,0.14,Low Risk
+1599,4,64.87,Month-to-Month,Fiber Optic,2,0,Yes,0.61,High Risk
+1600,62,43.75,Two Year,Fiber Optic,5,1,No,0.03,Low Risk
+1601,65,57.33,Month-to-Month,DSL,3,1,No,0.17,Low Risk
+1602,32,42.73,Month-to-Month,Fiber Optic,5,0,No,0.06,Low Risk
+1603,34,27.32,One Year,Fiber Optic,0,0,No,0.03,Low Risk
+1604,39,80.34,Two Year,DSL,9,0,No,0.03,Low Risk
+1605,26,86.82,Month-to-Month,Fiber Optic,0,0,No,0.08,Low Risk
+1606,34,81.95,Month-to-Month,DSL,2,0,No,0.08,Low Risk
+1607,54,66.35,Month-to-Month,Fiber Optic,7,0,No,0.28,Low Risk
+1608,3,57.98,One Year,DSL,7,0,Yes,0.67,High Risk
+1609,50,106.33,Month-to-Month,No,3,0,No,0.1,Low Risk
+1610,12,71.91,Month-to-Month,Fiber Optic,5,0,No,0.2,Low Risk
+1611,65,67.92,Two Year,DSL,7,0,No,0.0,
+1612,54,22.56,Month-to-Month,Fiber Optic,6,1,No,0.08,Low Risk
+1613,5,54.12,One Year,Fiber Optic,6,0,No,0.33,Medium Risk
+1614,57,58.02,Month-to-Month,Fiber Optic,3,0,No,0.12,Low Risk
+1615,17,59.88,Month-to-Month,Fiber Optic,8,0,Yes,0.8,High Risk
+1616,47,78.02,One Year,Fiber Optic,9,0,No,0.03,Low Risk
+1617,23,73.36,Month-to-Month,DSL,5,0,Yes,0.79,High Risk
+1618,14,80.79,Month-to-Month,DSL,2,0,Yes,0.78,High Risk
+1619,66,96.49,Month-to-Month,Fiber Optic,4,0,Yes,0.68,High Risk
+1620,51,101.3,One Year,Fiber Optic,4,1,No,0.0,
+1621,38,91.81,Two Year,DSL,4,0,No,0.03,Low Risk
+1622,64,115.55,Two Year,No,7,1,No,0.01,Low Risk
+1623,38,21.82,Month-to-Month,DSL,8,0,Yes,0.78,High Risk
+1624,50,39.58,Month-to-Month,Fiber Optic,8,0,Yes,0.78,High Risk
+1625,30,20.76,Month-to-Month,DSL,5,0,No,0.05,Low Risk
+1626,51,84.75,Two Year,DSL,5,0,No,0.01,Low Risk
+1627,63,109.8,Month-to-Month,No,8,0,No,0.09,Low Risk
+1628,52,44.35,Two Year,DSL,3,0,No,0.02,Low Risk
+1629,38,112.7,Month-to-Month,Fiber Optic,5,0,Yes,0.76,High Risk
+1630,30,26.03,Two Year,DSL,3,0,No,0.0,
+1631,51,113.44,Two Year,Fiber Optic,0,0,No,0.01,Low Risk
+1632,5,55.16,Two Year,No,6,0,Yes,0.8,High Risk
+1633,29,30.14,Month-to-Month,DSL,9,1,No,0.22,Low Risk
+1634,4,68.59,Month-to-Month,No,5,1,No,0.22,Low Risk
+1635,10,45.68,Month-to-Month,Fiber Optic,8,0,No,0.13,Low Risk
+1636,56,48.49,Month-to-Month,Fiber Optic,6,1,No,0.51,Medium Risk
+1637,17,50.73,Month-to-Month,Fiber Optic,6,0,No,0.22,Low Risk
+1638,17,100.3,Month-to-Month,No,1,0,No,0.03,Low Risk
+1639,69,73.92,Month-to-Month,DSL,8,0,Yes,0.33,Medium Risk
+1640,34,51.13,One Year,DSL,9,1,Yes,0.14,Low Risk
+1641,6,81.03,One Year,No,8,0,No,0.09,Low Risk
+1642,53,91.62,Month-to-Month,Fiber Optic,5,0,Yes,0.75,High Risk
+1643,66,47.26,Two Year,DSL,2,0,No,0.03,Low Risk
+1644,43,61.35,Month-to-Month,Fiber Optic,0,0,No,0.05,Low Risk
+1645,23,32.19,Month-to-Month,Fiber Optic,3,0,No,0.22,Low Risk
+1646,55,38.11,Month-to-Month,Fiber Optic,2,0,No,0.04,Low Risk
+1647,16,88.11,Two Year,DSL,0,0,No,0.04,Low Risk
+1648,8,38.14,Month-to-Month,Fiber Optic,2,0,Yes,0.87,High Risk
+1649,4,72.52,Month-to-Month,DSL,3,0,No,0.17,Low Risk
+1650,4,90.9,One Year,Fiber Optic,7,0,No,0.1,Low Risk
+1651,56,30.69,Month-to-Month,No,8,0,No,0.11,Low Risk
+1652,25,76.73,One Year,Fiber Optic,2,0,No,0.01,Low Risk
+1653,67,45.66,Two Year,DSL,5,1,No,0.01,Low Risk
+1654,67,116.29,Two Year,DSL,9,0,No,0.0,
+1655,27,68.35,Month-to-Month,Fiber Optic,4,0,Yes,0.71,High Risk
+1656,32,100.6,Month-to-Month,Fiber Optic,5,0,No,0.07,Low Risk
+1657,50,75.02,Month-to-Month,DSL,3,1,No,0.39,Medium Risk
+1658,61,24.34,Month-to-Month,Fiber Optic,9,1,Yes,0.8,High Risk
+1659,51,83.32,Month-to-Month,DSL,5,0,No,0.05,Low Risk
+1660,19,115.14,Month-to-Month,DSL,6,0,No,0.11,Low Risk
+1661,21,80.16,Two Year,DSL,8,0,No,0.02,Low Risk
+1662,5,101.92,Two Year,DSL,9,0,Yes,0.7,High Risk
+1663,42,108.42,Month-to-Month,DSL,6,0,No,0.16,Low Risk
+1664,61,42.81,Month-to-Month,Fiber Optic,5,0,No,0.07,Low Risk
+1665,22,41.2,Month-to-Month,No,0,0,No,0.02,Low Risk
+1666,21,81.1,Month-to-Month,Fiber Optic,1,0,Yes,0.71,High Risk
+1667,70,61.1,One Year,DSL,0,0,No,0.07,Low Risk
+1668,1,103.99,One Year,DSL,8,0,No,0.12,Low Risk
+1669,5,110.0,Two Year,DSL,9,0,No,0.13,Low Risk
+1670,12,55.34,One Year,DSL,9,0,No,0.14,Low Risk
+1671,46,43.69,Month-to-Month,Fiber Optic,8,0,No,0.21,Low Risk
+1672,34,98.05,One Year,Fiber Optic,6,0,No,0.01,Low Risk
+1673,49,47.48,Month-to-Month,DSL,1,0,Yes,0.76,High Risk
+1674,45,102.26,One Year,DSL,5,0,No,0.01,Low Risk
+1675,27,62.37,Month-to-Month,DSL,3,0,No,0.14,Low Risk
+1676,26,86.75,Month-to-Month,DSL,0,0,No,0.1,Low Risk
+1677,47,29.55,Month-to-Month,Fiber Optic,0,0,No,0.13,Low Risk
+1678,56,82.39,Month-to-Month,DSL,4,0,No,0.02,Low Risk
+1679,63,65.18,Two Year,Fiber Optic,1,0,No,0.0,
+1680,48,78.66,Month-to-Month,Fiber Optic,3,0,No,0.07,Low Risk
+1681,61,36.8,Month-to-Month,No,0,0,No,0.09,Low Risk
+1682,26,93.69,Month-to-Month,No,3,0,No,0.15,Low Risk
+1683,36,106.28,One Year,Fiber Optic,5,0,No,0.01,Low Risk
+1684,1,41.67,Month-to-Month,DSL,9,0,No,0.22,Low Risk
+1685,8,29.57,Two Year,Fiber Optic,3,1,No,0.08,Low Risk
+1686,52,22.36,Two Year,Fiber Optic,0,0,No,0.03,Low Risk
+1687,47,84.2,One Year,DSL,6,0,No,0.03,Low Risk
+1688,56,80.71,One Year,Fiber Optic,1,0,No,0.05,Low Risk
+1689,14,74.67,Month-to-Month,No,8,0,Yes,0.75,High Risk
+1690,28,43.19,Month-to-Month,Fiber Optic,2,0,Yes,0.75,High Risk
+1691,2,59.09,One Year,DSL,7,0,Yes,0.79,High Risk
+1692,26,79.45,Month-to-Month,DSL,7,1,No,0.1,Low Risk
+1693,14,69.68,Month-to-Month,Fiber Optic,2,0,Yes,0.31,Medium Risk
+1694,59,118.78,One Year,DSL,3,0,No,0.02,Low Risk
+1695,56,33.64,Month-to-Month,Fiber Optic,1,1,No,0.07,Low Risk
+1696,7,89.51,Two Year,Fiber Optic,3,0,Yes,0.7,High Risk
+1697,3,60.43,Month-to-Month,DSL,8,0,No,0.21,Low Risk
+1698,23,62.82,One Year,No,1,0,No,0.04,Low Risk
+1699,18,91.76,Month-to-Month,Fiber Optic,2,0,Yes,0.87,High Risk
+1700,38,89.24,One Year,DSL,3,0,No,0.01,Low Risk
+1701,15,119.13,Month-to-Month,Fiber Optic,4,0,Yes,0.47,Medium Risk
+1702,64,32.84,Month-to-Month,Fiber Optic,0,0,No,0.17,Low Risk
+1703,28,30.41,Two Year,Fiber Optic,6,0,No,0.02,Low Risk
+1704,39,92.43,Month-to-Month,No,9,1,Yes,0.73,High Risk
+1705,57,77.84,Month-to-Month,Fiber Optic,6,0,Yes,0.16,Low Risk
+1706,17,47.42,Month-to-Month,No,8,0,No,0.26,Low Risk
+1707,44,27.94,One Year,Fiber Optic,3,0,No,0.01,Low Risk
+1708,25,28.57,Month-to-Month,Fiber Optic,5,0,Yes,0.8,High Risk
+1709,17,109.42,Two Year,No,1,1,No,0.05,Low Risk
+1710,13,39.19,Month-to-Month,Fiber Optic,3,0,No,0.2,Low Risk
+1711,25,52.34,Month-to-Month,DSL,1,0,No,0.29,Low Risk
+1712,68,42.67,One Year,Fiber Optic,9,0,No,0.04,Low Risk
+1713,10,55.5,One Year,Fiber Optic,4,1,No,0.41,Medium Risk
+1714,67,26.94,Two Year,DSL,6,0,No,0.09,Low Risk
+1715,18,71.91,Two Year,No,0,0,No,0.07,Low Risk
+1716,34,26.76,Month-to-Month,DSL,9,0,No,0.41,Medium Risk
+1717,8,100.04,Month-to-Month,DSL,9,1,Yes,0.43,Medium Risk
+1718,40,43.37,Month-to-Month,No,6,0,No,0.25,Low Risk
+1719,42,74.0,One Year,Fiber Optic,9,0,No,0.01,Low Risk
+1720,41,108.01,Two Year,DSL,5,0,No,0.02,Low Risk
+1721,6,85.09,Month-to-Month,Fiber Optic,5,0,No,0.08,Low Risk
+1722,52,73.3,Month-to-Month,Fiber Optic,7,0,No,0.22,Low Risk
+1723,26,52.43,Month-to-Month,DSL,7,1,Yes,0.76,High Risk
+1724,64,53.3,Two Year,No,5,1,No,0.0,
+1725,59,86.95,Month-to-Month,Fiber Optic,2,1,No,0.06,Low Risk
+1726,56,119.41,Month-to-Month,Fiber Optic,4,0,No,0.5,Medium Risk
+1727,59,86.18,Month-to-Month,Fiber Optic,1,0,No,0.3,Low Risk
+1728,70,75.78,Two Year,Fiber Optic,4,1,No,0.0,
+1729,33,93.07,One Year,DSL,8,0,No,0.03,Low Risk
+1730,53,66.52,One Year,DSL,9,0,No,0.07,Low Risk
+1731,22,26.01,Month-to-Month,Fiber Optic,0,0,No,0.03,Low Risk
+1732,21,76.23,Month-to-Month,No,9,1,No,0.1,Low Risk
+1733,70,115.76,One Year,DSL,4,0,No,0.01,Low Risk
+1734,70,37.53,Two Year,Fiber Optic,5,1,No,0.05,Low Risk
+1735,4,89.0,Month-to-Month,No,6,0,No,0.19,Low Risk
+1736,62,40.09,Month-to-Month,DSL,8,0,No,0.06,Low Risk
+1737,62,73.58,Month-to-Month,DSL,5,0,No,0.06,Low Risk
+1738,24,29.67,Month-to-Month,DSL,4,0,Yes,0.75,High Risk
+1739,55,65.04,Two Year,Fiber Optic,6,0,No,0.02,Low Risk
+1740,9,95.62,Month-to-Month,DSL,0,1,No,0.21,Low Risk
+1741,3,54.76,Month-to-Month,Fiber Optic,4,0,Yes,0.8,High Risk
+1742,31,86.49,Month-to-Month,Fiber Optic,1,0,No,0.03,Low Risk
+1743,40,99.54,Month-to-Month,Fiber Optic,3,0,No,0.08,Low Risk
+1744,36,112.72,Month-to-Month,DSL,6,0,No,0.1,Low Risk
+1745,24,43.46,Month-to-Month,Fiber Optic,4,0,No,0.11,Low Risk
+1746,6,59.93,Month-to-Month,Fiber Optic,5,0,No,0.23,Low Risk
+1747,66,35.24,One Year,No,1,1,No,0.11,Low Risk
+1748,4,119.25,Month-to-Month,No,2,0,No,0.11,Low Risk
+1749,6,112.7,Month-to-Month,Fiber Optic,6,0,No,0.19,Low Risk
+1750,51,74.0,Two Year,Fiber Optic,1,0,No,0.03,Low Risk
+1751,62,104.2,One Year,DSL,5,0,No,0.03,Low Risk
+1752,57,72.1,One Year,DSL,4,1,No,0.02,Low Risk
+1753,66,82.36,Month-to-Month,DSL,9,0,No,0.16,Low Risk
+1754,8,28.91,Month-to-Month,Fiber Optic,0,1,Yes,0.13,Low Risk
+1755,26,95.53,Month-to-Month,DSL,9,0,No,0.12,Low Risk
+1756,51,32.77,Month-to-Month,DSL,3,0,No,0.16,Low Risk
+1757,45,102.61,Month-to-Month,No,1,1,Yes,0.78,High Risk
+1758,44,98.2,Two Year,DSL,3,0,No,0.0,
+1759,5,90.87,Month-to-Month,DSL,0,0,Yes,0.8,High Risk
+1760,70,23.62,Month-to-Month,DSL,1,0,Yes,0.75,High Risk
+1761,26,50.31,One Year,Fiber Optic,7,0,No,0.03,Low Risk
+1762,68,46.31,Month-to-Month,Fiber Optic,5,0,Yes,0.73,High Risk
+1763,19,56.01,One Year,DSL,1,0,No,0.07,Low Risk
+1764,20,28.76,One Year,Fiber Optic,5,0,Yes,0.07,Low Risk
+1765,12,113.7,One Year,Fiber Optic,9,0,Yes,0.69,High Risk
+1766,47,75.38,Two Year,No,8,1,No,0.01,Low Risk
+1767,1,50.55,Month-to-Month,No,6,0,No,0.15,Low Risk
+1768,14,59.7,Month-to-Month,No,8,0,No,0.14,Low Risk
+1769,64,64.72,Two Year,Fiber Optic,4,1,No,0.01,Low Risk
+1770,38,80.06,One Year,DSL,6,0,No,0.0,
+1771,37,71.57,Month-to-Month,DSL,6,0,No,0.03,Low Risk
+1772,11,111.94,Two Year,DSL,2,0,No,0.11,Low Risk
+1773,3,69.7,Month-to-Month,Fiber Optic,6,0,Yes,0.85,High Risk
+1774,33,119.22,Two Year,No,0,0,No,0.01,Low Risk
+1775,6,105.14,Month-to-Month,Fiber Optic,8,0,No,0.31,Medium Risk
+1776,50,40.85,Month-to-Month,DSL,9,0,No,0.16,Low Risk
+1777,10,113.06,Two Year,Fiber Optic,5,0,No,0.3,Low Risk
+1778,5,31.64,Month-to-Month,No,4,0,No,0.19,Low Risk
+1779,23,101.74,Month-to-Month,Fiber Optic,6,0,Yes,0.71,High Risk
+1780,10,58.06,Month-to-Month,No,4,0,Yes,0.88,High Risk
+1781,44,107.8,Two Year,No,9,1,No,0.0,
+1782,2,106.81,Two Year,No,4,0,No,0.08,Low Risk
+1783,13,100.59,One Year,Fiber Optic,9,0,No,0.06,Low Risk
+1784,40,99.0,One Year,Fiber Optic,6,0,No,0.02,Low Risk
+1785,2,50.47,Two Year,DSL,9,1,Yes,0.76,High Risk
+1786,65,28.09,Month-to-Month,DSL,6,1,No,0.13,Low Risk
+1787,63,60.3,Month-to-Month,Fiber Optic,2,0,No,0.05,Low Risk
+1788,17,37.35,One Year,DSL,2,0,No,0.02,Low Risk
+1789,9,89.5,Month-to-Month,No,9,0,No,0.08,Low Risk
+1790,15,54.61,Month-to-Month,DSL,2,0,No,0.07,Low Risk
+1791,24,117.56,Month-to-Month,No,5,0,No,0.08,Low Risk
+1792,38,84.1,Month-to-Month,DSL,5,0,No,0.01,Low Risk
+1793,35,102.25,Two Year,DSL,2,0,No,0.0,
+1794,49,33.25,Month-to-Month,No,2,0,Yes,0.76,High Risk
+1795,69,106.2,One Year,DSL,7,0,No,0.0,
+1796,62,112.28,Month-to-Month,DSL,7,0,No,0.03,Low Risk
+1797,60,68.71,Month-to-Month,DSL,6,1,Yes,0.68,High Risk
+1798,50,80.63,Month-to-Month,Fiber Optic,9,0,No,0.25,Low Risk
+1799,9,96.48,One Year,DSL,3,0,No,0.06,Low Risk
+1800,34,37.48,One Year,Fiber Optic,3,0,No,0.01,Low Risk
+1801,35,70.26,Two Year,Fiber Optic,2,0,No,0.0,
+1802,1,59.87,One Year,Fiber Optic,4,0,No,0.09,Low Risk
+1803,40,34.64,One Year,Fiber Optic,2,0,No,0.01,Low Risk
+1804,64,56.75,One Year,Fiber Optic,7,0,No,0.02,Low Risk
+1805,22,26.82,Two Year,DSL,6,1,No,0.01,Low Risk
+1806,60,22.58,One Year,No,2,0,No,0.05,Low Risk
+1807,64,33.52,Month-to-Month,DSL,8,1,No,0.16,Low Risk
+1808,11,116.31,Month-to-Month,Fiber Optic,4,0,Yes,0.87,High Risk
+1809,14,74.95,One Year,Fiber Optic,8,1,No,0.06,Low Risk
+1810,60,116.58,One Year,No,6,0,No,0.05,Low Risk
+1811,30,63.25,Month-to-Month,Fiber Optic,6,0,No,0.21,Low Risk
+1812,35,51.18,Two Year,DSL,5,0,No,0.01,Low Risk
+1813,37,70.61,Two Year,Fiber Optic,1,0,No,0.0,
+1814,5,63.95,Month-to-Month,Fiber Optic,8,0,Yes,0.7,High Risk
+1815,26,30.57,Two Year,DSL,5,0,No,0.03,Low Risk
+1816,62,84.08,Month-to-Month,Fiber Optic,7,0,No,0.1,Low Risk
+1817,4,41.6,Month-to-Month,Fiber Optic,0,0,No,0.49,Medium Risk
+1818,42,81.96,Month-to-Month,No,4,0,Yes,0.08,Low Risk
+1819,18,85.02,Month-to-Month,Fiber Optic,0,1,No,0.1,Low Risk
+1820,40,35.2,Two Year,DSL,9,0,No,0.0,
+1821,39,26.13,Month-to-Month,DSL,7,0,Yes,0.73,High Risk
+1822,14,98.08,Month-to-Month,No,7,0,No,0.15,Low Risk
+1823,32,65.98,Month-to-Month,No,0,0,No,0.09,Low Risk
+1824,51,25.82,Month-to-Month,DSL,8,0,Yes,0.69,High Risk
+1825,38,119.49,Month-to-Month,DSL,1,0,Yes,0.7,High Risk
+1826,23,25.78,One Year,Fiber Optic,8,0,No,0.01,Low Risk
+1827,63,89.5,Month-to-Month,DSL,0,0,No,0.08,Low Risk
+1828,15,118.37,Two Year,DSL,9,1,No,0.04,Low Risk
+1829,25,43.92,Two Year,DSL,8,0,No,0.01,Low Risk
+1830,17,34.22,Month-to-Month,DSL,3,0,No,0.2,Low Risk
+1831,66,32.14,Two Year,Fiber Optic,8,0,No,0.01,Low Risk
+1832,53,50.33,Month-to-Month,Fiber Optic,6,0,No,0.06,Low Risk
+1833,51,30.1,Month-to-Month,DSL,5,0,Yes,0.82,High Risk
+1834,39,89.22,Month-to-Month,DSL,4,0,No,0.03,Low Risk
+1835,51,26.23,Month-to-Month,DSL,8,1,No,0.6,Medium Risk
+1836,70,70.94,Month-to-Month,Fiber Optic,1,0,No,0.2,Low Risk
+1837,6,119.67,One Year,DSL,1,0,No,0.29,Low Risk
+1838,67,101.4,Month-to-Month,Fiber Optic,8,0,No,0.39,Medium Risk
+1839,7,81.52,One Year,Fiber Optic,2,0,Yes,0.78,High Risk
+1840,51,50.63,Month-to-Month,DSL,7,0,Yes,0.68,High Risk
+1841,42,82.39,One Year,DSL,8,0,No,0.01,Low Risk
+1842,64,72.7,Month-to-Month,DSL,7,0,No,0.03,Low Risk
+1843,15,62.61,Month-to-Month,Fiber Optic,3,0,No,0.3,Low Risk
+1844,29,33.07,Month-to-Month,No,0,0,No,0.09,Low Risk
+1845,33,108.66,Month-to-Month,DSL,3,0,Yes,0.16,Low Risk
+1846,27,64.98,Month-to-Month,No,8,0,No,0.11,Low Risk
+1847,36,39.46,Two Year,DSL,1,0,No,0.03,Low Risk
+1848,29,56.78,Month-to-Month,No,2,1,No,0.04,Low Risk
+1849,38,61.41,One Year,Fiber Optic,9,0,No,0.03,Low Risk
+1850,57,102.75,One Year,Fiber Optic,7,0,No,0.01,Low Risk
+1851,27,93.36,Two Year,Fiber Optic,5,0,No,0.03,Low Risk
+1852,55,96.93,Month-to-Month,Fiber Optic,7,0,No,0.36,Medium Risk
+1853,33,21.1,Month-to-Month,No,6,0,Yes,0.28,Low Risk
+1854,68,61.62,Two Year,Fiber Optic,4,0,No,0.01,Low Risk
+1855,66,68.13,One Year,Fiber Optic,8,0,No,0.0,
+1856,10,21.92,Month-to-Month,DSL,3,1,No,0.09,Low Risk
+1857,5,45.98,Month-to-Month,DSL,5,1,No,0.16,Low Risk
+1858,38,96.03,Month-to-Month,No,1,0,Yes,0.74,High Risk
+1859,13,33.71,One Year,Fiber Optic,1,0,No,0.0,
+1860,31,73.53,One Year,Fiber Optic,1,0,No,0.0,
+1861,47,41.52,Month-to-Month,Fiber Optic,9,0,Yes,0.8,High Risk
+1862,52,21.21,One Year,No,6,0,No,0.13,Low Risk
+1863,56,44.12,One Year,Fiber Optic,1,0,Yes,0.72,High Risk
+1864,15,117.59,Month-to-Month,Fiber Optic,1,0,Yes,0.89,High Risk
+1865,29,100.15,One Year,Fiber Optic,8,0,Yes,0.05,Low Risk
+1866,8,115.96,Two Year,DSL,6,0,Yes,0.31,Medium Risk
+1867,5,68.79,Month-to-Month,DSL,2,0,Yes,0.73,High Risk
+1868,29,30.97,Two Year,No,2,0,No,0.01,Low Risk
+1869,47,74.8,Month-to-Month,DSL,6,0,No,0.04,Low Risk
+1870,68,65.44,Month-to-Month,No,4,0,Yes,0.66,High Risk
+1871,45,104.44,Month-to-Month,DSL,9,0,No,0.07,Low Risk
+1872,2,29.81,Month-to-Month,DSL,5,0,Yes,0.88,High Risk
+1873,27,68.82,Month-to-Month,No,7,0,Yes,0.68,High Risk
+1874,36,35.0,Month-to-Month,Fiber Optic,8,0,Yes,0.91,High Risk
+1875,36,52.47,Two Year,DSL,0,0,No,0.01,Low Risk
+1876,26,93.74,Month-to-Month,Fiber Optic,2,0,No,0.33,Medium Risk
+1877,43,67.6,One Year,Fiber Optic,6,0,No,0.01,Low Risk
+1878,27,57.59,Month-to-Month,Fiber Optic,5,0,Yes,0.76,High Risk
+1879,69,59.45,Two Year,DSL,6,0,No,0.01,Low Risk
+1880,20,65.94,One Year,No,7,0,Yes,0.56,Medium Risk
+1881,11,98.5,Month-to-Month,No,5,0,Yes,0.8,High Risk
+1882,38,109.21,One Year,DSL,2,1,No,0.01,Low Risk
+1883,6,115.53,Month-to-Month,No,1,0,No,0.08,Low Risk
+1884,23,98.69,One Year,No,6,0,No,0.03,Low Risk
+1885,47,51.54,Month-to-Month,Fiber Optic,0,0,Yes,0.63,High Risk
+1886,46,88.81,One Year,Fiber Optic,2,0,No,0.0,
+1887,12,63.76,One Year,DSL,3,0,No,0.1,Low Risk
+1888,13,45.47,Month-to-Month,DSL,0,0,No,0.12,Low Risk
+1889,62,104.09,Month-to-Month,Fiber Optic,4,0,Yes,0.63,High Risk
+1890,60,23.84,Two Year,No,9,0,No,0.04,Low Risk
+1891,43,110.18,Month-to-Month,Fiber Optic,2,0,No,0.08,Low Risk
+1892,68,66.15,Month-to-Month,Fiber Optic,1,0,No,0.1,Low Risk
+1893,5,83.72,Month-to-Month,DSL,2,1,No,0.14,Low Risk
+1894,37,85.94,Month-to-Month,DSL,7,0,No,0.36,Medium Risk
+1895,31,109.51,Two Year,Fiber Optic,5,0,No,0.01,Low Risk
+1896,9,83.67,Month-to-Month,DSL,6,0,No,0.15,Low Risk
+1897,51,81.39,Month-to-Month,Fiber Optic,5,0,No,0.31,Medium Risk
+1898,29,26.67,One Year,DSL,5,1,No,0.1,Low Risk
+1899,40,71.84,Two Year,Fiber Optic,2,1,No,0.01,Low Risk
+1900,41,35.02,Month-to-Month,DSL,7,0,No,0.22,Low Risk
+1901,11,93.74,Month-to-Month,Fiber Optic,6,0,Yes,0.54,Medium Risk
+1902,23,71.22,Two Year,Fiber Optic,6,0,No,0.0,
+1903,1,88.02,One Year,DSL,5,0,Yes,0.39,Medium Risk
+1904,46,24.17,Month-to-Month,DSL,4,0,No,0.12,Low Risk
+1905,21,28.48,Month-to-Month,DSL,9,1,Yes,0.81,High Risk
+1906,36,91.63,Month-to-Month,No,7,1,No,0.19,Low Risk
+1907,54,27.21,Month-to-Month,DSL,4,1,No,0.05,Low Risk
+1908,57,27.13,Month-to-Month,Fiber Optic,8,0,Yes,0.74,High Risk
+1909,1,21.21,Two Year,No,8,0,Yes,0.64,High Risk
+1910,63,115.65,Month-to-Month,Fiber Optic,0,0,No,0.15,Low Risk
+1911,54,93.75,One Year,DSL,5,0,No,0.01,Low Risk
+1912,55,55.33,Month-to-Month,No,6,0,No,0.0,
+1913,40,49.65,One Year,DSL,2,0,No,0.0,
+1914,15,54.97,One Year,Fiber Optic,6,0,No,0.04,Low Risk
+1915,21,97.47,Month-to-Month,No,6,0,Yes,0.79,High Risk
+1916,47,86.14,Month-to-Month,Fiber Optic,1,1,No,0.05,Low Risk
+1917,53,38.52,Month-to-Month,Fiber Optic,6,1,No,0.13,Low Risk
+1918,9,37.41,Two Year,DSL,0,1,No,0.02,Low Risk
+1919,52,29.84,Two Year,DSL,4,0,No,0.0,
+1920,57,86.03,Month-to-Month,Fiber Optic,8,0,Yes,0.86,High Risk
+1921,26,96.44,Month-to-Month,DSL,6,0,No,0.15,Low Risk
+1922,41,46.5,Month-to-Month,No,6,0,No,0.08,Low Risk
+1923,35,22.09,One Year,No,1,1,No,0.15,Low Risk
+1924,63,28.22,Month-to-Month,No,7,1,No,0.06,Low Risk
+1925,25,116.79,Month-to-Month,Fiber Optic,2,0,Yes,0.74,High Risk
+1926,38,49.54,Month-to-Month,Fiber Optic,7,0,No,0.1,Low Risk
+1927,2,96.92,Month-to-Month,No,2,0,No,0.06,Low Risk
+1928,7,82.47,One Year,No,9,0,No,0.15,Low Risk
+1929,34,58.19,Month-to-Month,Fiber Optic,6,1,No,0.13,Low Risk
+1930,17,40.57,One Year,DSL,1,0,No,0.04,Low Risk
+1931,43,32.14,Month-to-Month,DSL,3,0,No,0.32,Medium Risk
+1932,59,81.5,Month-to-Month,Fiber Optic,5,0,Yes,0.18,Low Risk
+1933,51,97.46,One Year,Fiber Optic,8,0,No,0.02,Low Risk
+1934,54,84.39,Two Year,No,4,0,No,0.03,Low Risk
+1935,24,73.03,One Year,DSL,8,1,No,0.05,Low Risk
+1936,25,24.2,Month-to-Month,DSL,4,0,No,0.11,Low Risk
+1937,71,116.85,Month-to-Month,DSL,9,0,No,0.15,Low Risk
+1938,52,99.87,Two Year,DSL,7,0,No,0.0,
+1939,70,49.28,Month-to-Month,DSL,0,0,No,0.06,Low Risk
+1940,33,118.0,Month-to-Month,Fiber Optic,6,0,No,0.15,Low Risk
+1941,49,80.19,Two Year,Fiber Optic,3,0,No,0.0,
+1942,29,78.24,Two Year,Fiber Optic,4,0,No,0.02,Low Risk
+1943,63,94.81,Two Year,DSL,5,0,Yes,0.69,High Risk
+1944,22,101.18,Two Year,DSL,4,0,No,0.03,Low Risk
+1945,26,85.65,Two Year,Fiber Optic,0,0,No,0.04,Low Risk
+1946,28,32.81,Month-to-Month,No,8,0,Yes,0.69,High Risk
+1947,49,53.83,Month-to-Month,DSL,1,0,Yes,0.64,High Risk
+1948,71,112.81,One Year,No,8,0,No,0.02,Low Risk
+1949,49,42.46,Month-to-Month,DSL,9,0,No,0.18,Low Risk
+1950,20,57.22,Month-to-Month,No,1,0,No,0.12,Low Risk
+1951,63,63.21,Month-to-Month,No,8,0,No,0.06,Low Risk
+1952,61,63.94,Month-to-Month,DSL,5,1,No,0.02,Low Risk
+1953,49,81.29,One Year,Fiber Optic,8,0,No,0.0,
+1954,71,114.31,Month-to-Month,DSL,5,0,No,0.17,Low Risk
+1955,1,44.07,Month-to-Month,No,5,1,No,0.17,Low Risk
+1956,13,32.15,Month-to-Month,Fiber Optic,1,0,No,0.2,Low Risk
+1957,51,39.75,One Year,Fiber Optic,7,0,No,0.04,Low Risk
+1958,56,108.69,Month-to-Month,Fiber Optic,2,0,Yes,0.79,High Risk
+1959,62,84.58,Month-to-Month,No,6,0,No,0.13,Low Risk
+1960,32,48.59,One Year,DSL,4,0,No,0.02,Low Risk
+1961,30,101.59,Month-to-Month,Fiber Optic,2,0,Yes,0.36,Medium Risk
+1962,29,106.14,Month-to-Month,DSL,0,0,No,0.09,Low Risk
+1963,49,104.65,Month-to-Month,DSL,7,1,No,0.17,Low Risk
+1964,45,111.89,Month-to-Month,Fiber Optic,2,0,No,0.04,Low Risk
+1965,30,45.22,Two Year,DSL,1,0,No,0.01,Low Risk
+1966,16,95.5,Month-to-Month,DSL,0,0,Yes,0.66,High Risk
+1967,40,66.05,One Year,No,3,0,No,0.01,Low Risk
+1968,19,104.2,Month-to-Month,DSL,7,0,Yes,0.69,High Risk
+1969,18,92.85,Month-to-Month,Fiber Optic,2,0,No,0.15,Low Risk
+1970,1,97.64,One Year,DSL,0,0,No,0.27,Low Risk
+1971,47,85.62,Month-to-Month,DSL,3,0,No,0.13,Low Risk
+1972,66,37.74,Month-to-Month,DSL,8,1,Yes,0.66,High Risk
+1973,38,74.5,Month-to-Month,Fiber Optic,0,0,No,0.25,Low Risk
+1974,51,118.47,Month-to-Month,Fiber Optic,1,0,No,0.33,Medium Risk
+1975,63,113.74,One Year,DSL,8,0,No,0.03,Low Risk
+1976,4,24.32,Month-to-Month,DSL,1,0,Yes,0.53,Medium Risk
+1977,1,36.48,Two Year,No,2,0,No,0.06,Low Risk
+1978,8,33.17,One Year,DSL,6,0,No,0.17,Low Risk
+1979,29,92.6,Month-to-Month,No,2,0,Yes,0.68,High Risk
+1980,55,101.78,Month-to-Month,DSL,8,0,Yes,0.8,High Risk
+1981,3,41.35,Month-to-Month,Fiber Optic,5,0,Yes,0.84,High Risk
+1982,32,70.59,One Year,DSL,2,0,No,0.0,
+1983,10,104.07,Month-to-Month,No,8,0,No,0.14,Low Risk
+1984,34,93.28,Two Year,Fiber Optic,0,0,No,0.02,Low Risk
+1985,55,74.22,Month-to-Month,Fiber Optic,9,0,Yes,0.81,High Risk
+1986,32,79.03,Two Year,DSL,2,0,No,0.0,
+1987,50,70.84,Month-to-Month,Fiber Optic,0,0,No,0.11,Low Risk
+1988,7,49.75,Two Year,Fiber Optic,1,0,No,0.08,Low Risk
+1989,8,76.5,Month-to-Month,DSL,7,0,Yes,0.89,High Risk
+1990,65,88.89,Month-to-Month,DSL,6,0,No,0.06,Low Risk
+1991,57,107.33,Month-to-Month,No,1,0,No,0.22,Low Risk
+1992,67,83.63,Month-to-Month,DSL,1,0,No,0.06,Low Risk
+1993,59,96.11,Two Year,Fiber Optic,8,0,No,0.03,Low Risk
+1994,54,36.01,Month-to-Month,Fiber Optic,5,1,Yes,0.78,High Risk
+1995,67,66.16,Month-to-Month,No,4,1,Yes,0.09,Low Risk
+1996,51,20.93,One Year,No,9,0,No,0.07,Low Risk
+1997,8,44.67,Month-to-Month,No,5,0,No,0.44,Medium Risk
+1998,34,92.65,Month-to-Month,DSL,8,0,No,0.12,Low Risk
+1999,35,119.18,One Year,No,6,0,No,0.01,Low Risk
+2000,32,29.92,Month-to-Month,DSL,9,0,Yes,0.82,High Risk
